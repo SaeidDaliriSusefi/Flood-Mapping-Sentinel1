@@ -1,4 +1,4 @@
-# 🌍 Flood Mapping  using Sentinel-1
+# 🌍 Flood Mapping App
 
 
 ## 📸 Example Outputs
